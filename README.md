@@ -1,1 +1,2 @@
-# flapppy-bits
+# flapppy-bird
+
